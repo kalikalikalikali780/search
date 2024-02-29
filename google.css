@@ -1,0 +1,67 @@
+h1{ display:inline;
+    font-size: 100px;
+    font-family: 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    top: 210px; 
+    left:665px;
+}
+ div{
+    text-align: center;
+ }
+ #G{
+    color: blue;
+ }
+ #o{
+    columns: red;
+ }
+ #o1{
+    color: yellow;
+ }
+ #g{
+    color: blue;
+ }
+ #l{
+    color: green;
+ }
+ #e{
+    color: red;}
+    #bar{
+        width: 600px; 
+        padding: 10px; 
+        border-radius: 25px 25px 25px 25px;
+      }
+input{
+    position: relative;
+    top: 250px; 
+    left: 40px;
+}
+#button{
+    position: relative;
+    top: 280px; 
+    left: -40px;
+    width: 120px;
+    height: 30px;
+
+}
+#button2{
+    left: 850px;
+    top:250px;
+    width: 150px;
+    height: 30px;
+  
+}
+#linkimage{
+   position: absolute;
+   left: 1500px;
+   top: 10px;
+}
+#linkadv{
+   position: absolute;
+   left: 1477px;
+   top: 30px;
+}
+#linkgoogle{
+   position: absolute;
+   left: 1560px;
+   top: 5px;
+}
